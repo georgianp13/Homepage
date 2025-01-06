@@ -14,6 +14,13 @@ Here are some of the key highlights from my portfolio:
   - [Entra ID: AAD User Groups and Access Management](https://github.com/tmramble/AzureRBAC_Config)
   - [Microsoft Sentinel: GEO IP Data Ingestion + Log Analytics](https://github.com/tmramble/SentinelGeoIP)
   - [Microsoft Defender: Virtual Machine Log Collection and Network Security Groups](https://github.com/tmramble/MicrosoftDefenderNSG)
+ 
+  - <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
+    
+<h2>:books: Relevant Coursework:</h2>
+
 
     
 - <b>Implementing Firewalls, Secure Communication, and Wireless LAN Protection</b>
